@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-[![dgidget's 42 stats](https://badge42.vercel.app/api/v2/cl48b2grq01620akx9l6n8aub/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+[![dgidget's 42 stats](https://badge42.vercel.app/api/v2/cl48b2grq01620akx9l6n8aub/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
 
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guseynovr&hide=javascript,css,scss,html&theme=tokyonight) -->
 
